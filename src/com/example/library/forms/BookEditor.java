@@ -10,4 +10,8 @@ public class BookEditor extends JFrame
     private JTextField authorNameField;
     private JComboBox genreComboBox;
     private JCheckBox isTakenCheckBox;
+
+    private void createUIComponents() {
+        // TODO: place custom component creation code here
+    }
 }

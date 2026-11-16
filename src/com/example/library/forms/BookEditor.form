@@ -8,7 +8,7 @@
     <properties/>
     <border type="none"/>
     <children>
-      <component id="d3170" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+      <component id="d3170" class="javax.swing.JTextField" binding="bookNameField">
         <constraints>
           <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -16,7 +16,7 @@
         </constraints>
         <properties/>
       </component>
-      <component id="e18ab" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+      <component id="e18ab" class="javax.swing.JTextField" binding="authorNameField">
         <constraints>
           <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
             <preferred-size width="150" height="-1"/>
@@ -24,13 +24,13 @@
         </constraints>
         <properties/>
       </component>
-      <component id="77d3a" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+      <component id="77d3a" class="javax.swing.JComboBox" binding="genreComboBox">
         <constraints>
           <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="2" anchor="8" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties/>
       </component>
-      <component id="2ba97" class="javax.swing.JCheckBox" binding="checkBox1" default-binding="true">
+      <component id="2ba97" class="javax.swing.JCheckBox" binding="isTakenCheckBox">
         <constraints>
           <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
         </constraints>

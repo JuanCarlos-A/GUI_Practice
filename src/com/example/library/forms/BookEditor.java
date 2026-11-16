@@ -13,7 +13,6 @@ public class BookEditor extends JFrame
     private JLabel bookNameLabel;
     private JLabel authorNameLabel;
     private JLabel genreComboLabel;
-    private JLabel isTakenLabel;
 
     private void createUIComponents() {
         // TODO: place custom component creation code here
